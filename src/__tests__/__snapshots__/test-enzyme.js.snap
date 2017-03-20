@@ -16,4 +16,14 @@ exports[`Greeting Hello enzyme is displayed? 1`] = `
     </div>
   </div>
 </App>
+------------HTML PREVIEW---------------
+<App greeting="Hello enzyme">
+  <div class="container">
+    <div class="jumbotron">
+      <h1>
+        Hello enzyme
+      </h1>
+    </div>
+  </div>
+</App>
 `;

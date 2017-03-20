@@ -29,3 +29,9 @@ If you want to update snapshots, hit it with -u option.
 ```$xslt
 $ yarn test -- -u
 ```
+
+To check snapshot as more like HTML, you can use jest-html
+
+```$xslt
+$ yarn jest-html
+```

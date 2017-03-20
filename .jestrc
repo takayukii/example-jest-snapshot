@@ -1,3 +1,6 @@
 {
-  "snapshotSerializers": ["./node_modules/jest-serializer-enzyme"]
+  "snapshotSerializers": [
+  	"./node_modules/jest-serializer-enzyme",
+  	"./node_modules/jest-html"
+  ]
 }
