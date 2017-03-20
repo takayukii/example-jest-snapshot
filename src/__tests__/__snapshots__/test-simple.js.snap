@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Greeting Hello simple is displayed? 1`] = `
+<div
+  className="container"
+>
+  <div
+    className="jumbotron"
+  >
+    <h1>
+      Hello simple
+    </h1>
+  </div>
+</div>
+`;
